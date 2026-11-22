@@ -1,0 +1,8 @@
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Saved models
+*.keras
+*.h5
