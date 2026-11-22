@@ -6,3 +6,5 @@ mlflow.db
 # Saved models
 *.keras
 *.h5
+
+optuna.db
